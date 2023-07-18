@@ -1,0 +1,1 @@
+Arquivo criado para fazer o pull para minha máquina (local) / o Push, do meu projeto no VS para o Github, agora fazendo o oposto.
